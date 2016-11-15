@@ -1,2 +1,7 @@
 # bug-free-lamp
-My repository for general projects
+
+In this repository i'll add all my sample code.
+
+  > 15/11/2016 - Java sample MySQL connection to DB
+  
+© Francesco Longo
